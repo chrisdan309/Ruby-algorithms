@@ -1,1 +1,2 @@
 # Ruby-algorithms
+By Christian
